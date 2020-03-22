@@ -1,0 +1,13 @@
+{
+    "id": "nuclino",
+    "name": "Nuclino",
+    "version": "1.0.0",
+    "description": "Nuclino",
+    "main": "index.js",
+    "author": "Devin Sit <devin@devinsit.com>",
+    "license": "MIT",
+    "config": {
+        "serviceURL": "https://app.nuclino.com/",
+        "hasTeamID": false
+    }
+}
